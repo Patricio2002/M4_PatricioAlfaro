@@ -1,0 +1,14 @@
+Cliente 
+Pagina historia del señor de los anillos
+La primera pestaña va a tener un encabezado que dirá:
+ BIENVENIDO MELLO!! En azul
+Luego tendrá una seleccion para que te dirija a la cronología de la historia o información de los personajes
+Pestaña cronología:
+Van a haber miniencabezados, uno por cada libro/pelicula. 
+Dentro de estos va a haber una pequeña descripicion de cada suceso con su imagen respectiva. 
+
+personajes:
+Descripción del personaje (edad, especie, descripcion fisica, lugar de origen)
+ej. (Gandalf, edad: desconocida, especie: Istarí, descripción: alto, cabello gris, etc., Origen: Tierras inmortales)
+Sucesos en los que participaron. 
+ej. (Aragorn, Batalla de Pelennor)
