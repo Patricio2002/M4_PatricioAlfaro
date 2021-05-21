@@ -1,0 +1,127 @@
+@font-face {
+    font-family: Alegreya;
+    src: url("../Fonts/AlegreyaSans.ttf");
+}
+@font-face {
+    font-family: Girassol;
+    src: url("../Fonts/Girassol-Regular.ttf");
+}
+body{
+    background-color: #76a422;
+    margin:0px;
+}
+
+#rel{
+    position: absolute;
+    height: 2px;
+    background-color: white;
+    width: 100%;
+}
+#rel1{
+    position:absolute;
+    height: 10px;
+    top: 2px;
+    width: 100%;
+    background-color: black;
+}
+#rel2{
+    position: absolute;
+    top: 12px;
+    height: 2px;
+    background-color: white;
+    width: 100%;
+}
+#titulo{
+    position: absolute;
+    width: 80%;
+    top: -90px;
+    left: 227px;
+    font-family: Girassol, 'Times New Roman', Times, serif;
+    font-size: 6em;
+    text-align: center;
+    color: white;
+}
+#rel3{
+    position: absolute;
+    top: 144px;
+    height: 2px;
+    background-color: white;
+    width: 100%;
+
+}
+#rel4{
+    position:absolute;
+    background-color: black;
+    height: 10px;
+    top: 146px;
+    width: 100%;
+}
+#rel5{
+    position: absolute;
+    top: 156px;
+    height: 2px;
+    background-color: white;
+    width: 100%;
+}
+
+nav{
+    position:absolute;
+    width: 227px;
+    height: 1170px;
+    background-color: #3E5C07;
+    font-family: Alegreya, Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color: #E5E5E5;
+}
+ul{
+    font-family: Alegreya, Arial, sans-serif;
+    text-align: left;
+    font-size: 19px;
+    color: #E5E5E5;
+}
+a{
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
+#d1{
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    height: 95px;
+    width: 470px;
+    background-color: white;
+}
+article{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    height: 75px;
+    width: 450px;
+background-color: black;
+}
+h3{
+    color: white;
+    text-align: center;
+}
+sub{
+    color: white;
+    text-align: center;
+}
+h1{
+    position: absolute;
+    top: 45%;
+    left: 30%;
+    font-family: Alegreya, Arial, sans-serif; 
+    color: white;  
+    font-size: 10em;
+}
+h2{
+    position: absolute;
+    top: 90%;
+    left: 47%;
+    font-family: Alegreya, Arial, sans-serif; 
+    color: white;  
+    font-size: 8em;
+}
